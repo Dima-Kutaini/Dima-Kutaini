@@ -4,11 +4,12 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <h4 align="left">About me:</h4>
-- 🔭 I’m currently finished a Web Development course **at HackYourFuture.**<br>
+- 🔭 I’m currently finished a Web Development course __at **HackYourFuture.**__<br>
 - 🌱 I'm currently deepening my knowledge of Python and actively working on various projects to enhance my development skills. <br>
 - 👯 "I'm looking to collaborate on exciting web development projects that push the boundaries of creativity and functionality 🚀. <br> 
 - 📫 How to reach me: <br>
-   My Email: **deemakutainy@gmail.com.**<br>
+   My Email: *__deemakutainy@gmail.com.__*<br>
+
 
    <h4 align="left">Connect with me:</h4>
    LinkedIn: <p align="left">
