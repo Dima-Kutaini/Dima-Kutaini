@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" height="300" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
 
 <h4 align="left">About me:</h4>
-- 🔭 I’m currently finished a Web Development course at <span style="font-weight: bold;"> HackYourFuture </span> <br>
+- 🔭 I’m currently finished a Web Development course at **HackYourFuture Denmark** <br>
 - 🌱 I'm currently deepening my knowledge of Python and actively working on various projects to enhance my development skills. <br>
 - 👯 "I'm looking to collaborate on exciting web development projects that push the boundaries of creativity and functionality 🚀. <br> 
 - 📫 How to reach me: <br>
