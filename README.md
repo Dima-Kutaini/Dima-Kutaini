@@ -43,4 +43,4 @@
   </a>
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql,docker,git,react,vscode,figma&theme=light)](https://skillicons.dev)
