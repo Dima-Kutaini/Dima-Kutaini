@@ -10,10 +10,7 @@
 📫 **How to reach me:**
 - My Email: **deemakutainy@gmail.com**
 ### Portfolio
-Check out my portfolio demo:
-- [My Portfolio](https://portfolio-html-css-javascript-eight.vercel.app/)
-
-
+Check out my portfolio demo:<a href="https://portfolio-html-css-javascript-eight.vercel.app/" target="blank"> My Portfolio</a>
    <h4 align="left">Connect with me:</h4>
    LinkedIn: <p align="left">
 <a href="https://www.linkedin.com/in/dima-kutaini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dima Profile" height="30" width="40" /></a>
