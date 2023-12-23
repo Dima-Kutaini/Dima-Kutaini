@@ -12,8 +12,8 @@
 - 📧 **Email:**  **deemakutainy@gmail.com** <br>
 📖 **Portfolio:** 
 Check out my portfolio demo:<a  href="https://portfolio-html-css-javascript-eight.vercel.app/" target="blank">Portfolio </a>
-   <h4 align="left">Connect with me:</h4>
-   LinkedIn: <p align="left">
+<h4 align="left">Connect with me:</h4>
+LinkedIn: <p align="left">
 <a href="https://www.linkedin.com/in/dima-kutaini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dima Profile" height="30" width="40" /></a>
 </p><br>
 - ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!
