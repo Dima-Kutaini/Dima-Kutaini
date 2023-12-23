@@ -9,8 +9,7 @@
 - 👯 "I'm looking to collaborate on exciting web development projects that push the boundaries of creativity and functionality 🚀. <br> 
 📫 **How to reach me:**
 - My Email: deemakutainy@gmail.com
-![image](https://github.com/Dima-Kutaini/Dima-Kutaini/assets/111286582/9f72d006-29d7-4f67-a69b-5078eb2e5853)
-Check out my portfolio demo:<a href="https://portfolio-html-css-javascript-eight.vercel.app/" target="blank"> My Portfolio</a>
+<i class="fas fa-external-link-alt"></i>Check out my portfolio demo:<a href="https://portfolio-html-css-javascript-eight.vercel.app/" target="blank"> My Portfolio</a>
    <h4 align="left">Connect with me:</h4>
    LinkedIn: <p align="left">
 <a href="https://www.linkedin.com/in/dima-kutaini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dima Profile" height="30" width="40" /></a>
