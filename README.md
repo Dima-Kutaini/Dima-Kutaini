@@ -10,7 +10,7 @@
 - 📫 How to reach me:** <br>
    My Email: **deemakutainy@gmail.com** <br>
 ### Portfolio <br>
-Check out my portfolio demo:
+Check out my portfolio demo:<br>
 <a href="https://portfolio-html-css-javascript-eight.vercel.app/" target="blank" > My Portfolio</a>
 
    <h4 align="left">Connect with me:</h4>
