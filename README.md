@@ -10,7 +10,7 @@
 📫 **How to reach me:**
 ### How to reach me:
 - 📧 **Email:** deemakutainy@gmail.com
-:briefcase: Portfolio
+📖 ###Portfolio: 
 Check out my portfolio demo:
 - [My Portfolio](https://portfolio-html-css-javascript-eight.vercel.app/) ![External Link Icon](https://img.icons8.com/ios/452/external-link.png)
 
