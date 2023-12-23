@@ -9,7 +9,7 @@
 - 👯 "I'm looking to collaborate on exciting web development projects that push the boundaries of creativity and functionality 🚀. <br> 
 📫 **How to reach me:**
 
-- 📧 **Email:**  **deemakutainy@gmail.com**
+- 📧 **Email:**  **deemakutainy@gmail.com** <br>
 📖 **Portfolio:** 
 Check out my portfolio demo:<a  href="https://portfolio-html-css-javascript-eight.vercel.app/" target="blank">Portfolio </a>
    <h4 align="left">Connect with me:</h4>
