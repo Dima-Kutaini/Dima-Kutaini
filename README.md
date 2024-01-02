@@ -7,6 +7,7 @@
 - 🔭 I’m currently finished a Web Development course at HackYourFuture Denmark <br> 
 - 🌱 I'm currently deepening my knowledge of Python and actively working on various projects to enhance my development skills. <br>
 - 👯 "I'm looking to collaborate on exciting web development projects that push the boundaries of creativity and functionality 🚀. <br> 
+- ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!<br>
 📫 How to reach me:
 
 - 📧 **Email:**  **deemakutainy@gmail.com** <br>
@@ -16,9 +17,6 @@ Check out my portfolio demo:<a  href="https://portfolio-html-css-javascript-eigh
 LinkedIn: <p align="left">
 <a href="https://www.linkedin.com/in/dima-kutaini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dima Profile" height="30" width="40" /></a>
 </p><br>
-- ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!
-
-
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
