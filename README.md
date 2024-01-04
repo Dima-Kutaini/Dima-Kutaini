@@ -1,16 +1,15 @@
 <h1 align="center">Hello there 👋 I'm  Dima </h1>
 <h3 align="center">Building websites that are easy to use, look great, and bring joy to users.</h3>
 
-<img align="right" alt="Coding" width="300" height="250" src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQyMzExODUsIm5iZiI6MTcwNDIzMDg4NSwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAyVDIxMjgwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxYTM4OTQyOWRkMTY5ZmZmODc0M2EzOGRkNDhlOWJkOTZjYjI3NjAwMDRjOGM3MzA4NzFiNDNkNzc4NGI3ODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LJDZmUdeXzow48v8NinZdWf16owPX1ba78It0oolFnY">
+<img align="right" alt="Coding" width="300" height="250" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
 
 <h4 align="left">About me:</h4>
 - 🔭 I’m currently finished a Web Development course at HackYourFuture Denmark <br> 
 - 🌱 I'm currently deepening my knowledge of Python and actively working on various projects to enhance my development skills. <br>
 - 👯 "I'm looking to collaborate on exciting web development projects that push the boundaries of creativity and functionality 🚀. <br> 
 - ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!<br>
-📫 How to reach me:
 
-- 📧 **Email:**  **deemakutainy@gmail.com** <br>
+- 📫 How to reach me:📧  **deemakutainy@gmail.com** <br>
 - 📖 **Portfolio:** 
 Check out my portfolio demo:<a  href="https://portfolio-html-css-javascript-eight.vercel.app/" target="blank">Portfolio </a>
 <h4 align="left">Connect with me:</h4>
