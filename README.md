@@ -4,16 +4,16 @@
 <img align="right" alt="Coding" width="300" height="250" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
 
 <h4 align="left">About me:</h4>
-- 🔭 I’m currently finished a Web Development course at <strong>HackYourFuture Denmark</strong> <br> 
-- 🌱 I'm currently deepening my knowledge of Python and actively working on various projects to enhance my development skills. <br>
-- 👯 "I'm looking to collaborate on exciting web development projects that push the boundaries of creativity and functionality 🚀. <br> 
-- ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!<br>
+ - 🔭 I’m currently finished a Web Development course at <strong>HackYourFuture Denmark</strong>. <br> 
+ - 🌱 I'm currently deepening my knowledge of Python and actively working on various projects to enhance my development skills. <br>
+ - 👯 "I'm looking to collaborate on exciting web development projects that push the boundaries of creativity and functionality 🚀. <br> 
+ - ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!<br>
 
 - 📫 How to reach me:📧My E-mail: **deemakutainy@gmail.com** <br>
 - 📖 **Portfolio:** 
 Check out my portfolio demo:<a  href="https://portfolio-html-css-javascript-eight.vercel.app/" target="blank">Portfolio </a>
 <h4 align="left">Connect with me:</h4>
-LinkedIn: <p align="left">
+ <p align="left">
 <a href="https://www.linkedin.com/in/dima-kutaini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dima Profile" height="30" width="40" /></a>
 </p><br>
 <h4 align="left">Languages and Tools:</h4>
