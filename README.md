@@ -9,7 +9,7 @@
 - 👯 "I'm looking to collaborate on exciting web development projects that push the boundaries of creativity and functionality 🚀. <br> 
 - ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!<br>
 
-- 📫 How to reach me:📧  **deemakutainy@gmail.com** <br>
+- 📫 How to reach me:📧My E-mail: **deemakutainy@gmail.com** <br>
 - 📖 **Portfolio:** 
 Check out my portfolio demo:<a  href="https://portfolio-html-css-javascript-eight.vercel.app/" target="blank">Portfolio </a>
 <h4 align="left">Connect with me:</h4>
