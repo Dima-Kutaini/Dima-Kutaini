@@ -6,7 +6,7 @@
 <h4 align="left">About me:</h4>
  - 🔭 I’m recently finished a Web Development course at <strong>HackYourFuture Denmark</strong>. <br> 
  - 🌱 Currently, I'm enrolled in a master class in Quality Assurance (QA) to further solidify my expertise in this field. Concurrently, I'm working on various projects to enhance my development skills. <br>
- - 👯 "I'm looking to collaborate on exciting web development projects that push the boundaries of creativity and functionality 🚀. <br> 
+ - 👯 I am actively seeking part-time or full-time internship or job opportunities to further apply and enhance my skills in a professional setting 🚀. <br> 
  - ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!<br>
 
 - 📫 How to reach me:📧My E-mail: **deemakutainy@gmail.com** <br>
