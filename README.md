@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="300" height="250" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
 
 <h4 align="left">About me:</h4>
- - 🔭 I’m currently finished a Web Development course at <strong>HackYourFuture Denmark</strong>. <br> 
- - 🌱 I'm currently deepening my knowledge of Python and actively working on various projects to enhance my development skills. <br>
+ - 🔭 I’m recently finished a Web Development course at <strong>HackYourFuture Denmark</strong>. <br> 
+ - 🌱 Currently, I'm enrolled in a master class in Quality Assurance (QA) to further solidify my expertise in this field. Concurrently, I'm working on various projects to enhance my development skills. <br>
  - 👯 "I'm looking to collaborate on exciting web development projects that push the boundaries of creativity and functionality 🚀. <br> 
  - ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!<br>
 
