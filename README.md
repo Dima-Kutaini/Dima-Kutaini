@@ -4,14 +4,14 @@
 <img align="right" alt="Coding" width="300" height="250" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
 
 <h4 align="left">About me:</h4>
- - 🔭 I’m recently finished a Web Development course at <strong>HackYourFuture Denmark</strong>. <br> 
- - 🌱 Currently, I'm enrolled in a master class in Quality Assurance (QA) to further solidify my expertise in this field. Concurrently, I'm working on various projects to enhance my development skills. <br>
- - 👯 I am actively seeking part-time or full-time internship or job opportunities to further apply and enhance my skills in a professional setting 🚀. <br> 
+ - 🔭 I’m finished a Web Development boot camp at <strong>HackYourFuture Denmark</strong>.in July 2023 <br> 
+ - 🌱 Currently, I'm working on various personal projects to enhance my development skills and keep learning. <br>
+ - 👯 I am actively seeking internship opportunities and full-time or part-time positions as a full-stack developer. Eager to take on challenges, I maintain 
+      a positive attitude and possess a strong curiosity for learning and exploring new technologies. 🚀. <br> 
  - ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!<br>
 
-- 📫 How to reach me:📧My E-mail: **deemakutainy@gmail.com** <br>
-- 📖 **Portfolio:** 
-Check out my portfolio demo:<a  href="https://portfolio-html-css-javascript-eight.vercel.app/" target="blank">Portfolio </a>
+- 📫 How to reach me:📧 **deemakutainy@gmail.com** <br>
+- 📖 **Check my Portfolio:** <a  href="https://portfolio-html-css-javascript-eight.vercel.app/" target="blank">here </a>
 <h4 align="left">Connect with me:</h4>
  <p align="left">
 <a href="https://www.linkedin.com/in/dima-kutaini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dima Profile" height="30" width="40" /></a>
