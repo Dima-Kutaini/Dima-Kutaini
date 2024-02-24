@@ -11,7 +11,7 @@
  - ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!<br>
 
 - 📫 How to reach me:📧 **deemakutainy@gmail.com** <br>
-- 📖 **Check my Portfolio:** <a  href="https://3d-portfolio-dvbkew171-dima-kutaini.vercel.app/" target="blank">here </a>
+- 📖 **Check my Portfolio:** <a  href="[https://3d-portfolio-dvbkew171-dima-kutaini.vercel.app/](https://3-d-portfolio-react-js.vercel.app/)" target="blank">here </a>
 <h4 align="left">Connect with me:</h4>
  <p align="left">
 <a href="https://www.linkedin.com/in/dima-kutaini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dima Profile" height="30" width="40" /></a>
