@@ -2,14 +2,13 @@
 <h3 align="center">Building websites that are easy to use, look great, and bring joy to users.</h3>
 
 <img align="right" alt="Coding" width="300" height="250" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
-
 <h4 align="left">About me:</h4>
  - 🔭 I’m finished a Web Development boot camp at <strong>HackYourFuture Denmark</strong>.in July 2023 <br> 
  - 🌱 Currently, I'm working on various personal projects to enhance my development skills and keep learning. <br>
- - 👯 I am actively seeking internship opportunities and full-time or part-time positions as a full-stack developer. Eager to take on challenges, I maintain 
-      a positive attitude and possess a strong curiosity for learning and exploring new technologies. 🚀. <br> 
+ - 👯 I am actively seeking internship opportunities and full-time or part-time positions as a frontend developer. Eager to take on challenges, I maintain 
+      a positive attitude and possess a strong curiosity for learning and exploring new technologies. <br> 
  - ⚡ Fun fact:I can speak multiple programming languages, but my favorite one is the language of clean and efficient code!<br>
-
+ 
 - 📫 How to reach me:📧 **deemakutainy@gmail.com** <br>
 - 📖 **Check my Portfolio:** <a  href="https://3-d-portfolio-react-js.vercel.app/" target="blank">here </a>
 <h4 align="left">Connect with me:</h4>
